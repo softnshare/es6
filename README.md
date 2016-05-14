@@ -3,16 +3,16 @@
 >es6+ 是泛指 es6 以上本版的 ECMAscript   
 
 ## 導讀內容:
-* [第一章 ECMAScript 6 簡介 - polo](第一章)
+* [第一章 ECMAScript 6 簡介 - polo](chapter 1)
 
 
 ## 讀書會閱讀工具:
 
 * [新同文堂](https://chrome.google.com/webstore/detail/new-tong-wen-tang/ldmgbgaoglmaiblpnphffibpbfchjaeg?hl=zh-TW) 簡體繁體轉換工具
 * [hangout直播](https://plus.google.com/hangouts/onair) 導讀錄影
-* markdown編輯工具 
+* markdown 編輯工具
  1. [mac](http://superuser.com/questions/616899/github-flavored-markdown-editor-for-osx)
- 2. win 請推薦 
+ 2. win 請推薦
 
 ## 導讀的製作流程
 1. 挑選書中的某個單元
