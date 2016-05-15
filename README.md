@@ -38,3 +38,4 @@ ES6 相關資源
 * [ES6-Learning](https://github.com/ericdouglas/ES6-Learning)
 * [ES6-In-Depth](http://www.infoq.com/cn/es6-in-depth/)
 * [Strikingly ES6 JavaScript Style Guide](https://github.com/strikingly/javascript)
+* [ECMAScript 6 簡介](https://hackmd.io/p/4JlFcJKOe#/) by [jackymaxj](https://twitter.com/jackymaxj)
