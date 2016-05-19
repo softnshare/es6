@@ -3,7 +3,7 @@
 >es6+ 是泛指 es6 以上本版的 ECMAscript   
 
 ## 導讀內容:
-* [第一章 ECMAScript 6 簡介 - polo](chapter 1)
+* [第一章 ECMAScript 6 簡介 - polo](chapter-01)
 
 
 ## 讀書會閱讀工具:
