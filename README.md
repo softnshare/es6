@@ -5,21 +5,20 @@
 ## 導讀內容:
 * [第一章 ECMAScript 6 簡介 - polo](chapter-01)
 
-
 ## 讀書會閱讀工具:
 
 * [新同文堂](https://chrome.google.com/webstore/detail/new-tong-wen-tang/ldmgbgaoglmaiblpnphffibpbfchjaeg?hl=zh-TW) 簡體繁體轉換工具
 * [hangout直播](https://plus.google.com/hangouts/onair) 導讀錄影
 * markdown 編輯工具
  1. [mac](http://superuser.com/questions/616899/github-flavored-markdown-editor-for-osx)
- 2. win 請推薦
+ 2. [atom](https://atom.io/)
 
 ## 導讀的製作流程
 1. 挑選書中的某個單元
 2. 研讀後將重點透過 github 記下來。
  1. 建立單元
  2. 撰寫內容
-3. 透過hangout錄製影片
+3. 透過 hangout 錄製影片
 4. 將相關檔案根據單元分類上傳
 
 ## 書籍內容
@@ -39,3 +38,6 @@ ES6 相關資源
 * [ES6-In-Depth](http://www.infoq.com/cn/es6-in-depth/)
 * [Strikingly ES6 JavaScript Style Guide](https://github.com/strikingly/javascript)
 * [ECMAScript 6 簡介](https://hackmd.io/p/4JlFcJKOe#/) by [jackymaxj](https://twitter.com/jackymaxj)
+* [ES6-Cheatsheet](http://slides.com/drksephy/ecmascript-2015)
+* [ES6-Feature](http://es6-features.org/#Constants)
+* [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
