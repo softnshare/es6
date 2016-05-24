@@ -41,3 +41,6 @@ ES6 相關資源
 * [ES6-Cheatsheet](http://slides.com/drksephy/ecmascript-2015)
 * [ES6-Feature](http://es6-features.org/#Constants) New Features: Overview & Comparison 
 * [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
+* [ES6 equivalents in ES5](https://github.com/addyosmani/es6-equivalents-in-es5)
+* [ES6 tools](https://github.com/addyosmani/es6-tools)
+* [React/React Native 的ES5 ES6寫法對照表](http://bbs.reactnative.cn/topic/15/react-react-native-%E7%9A%84es5-es6%E5%86%99%E6%B3%95%E5%AF%B9%E7%85%A7%E8%A1%A8)
