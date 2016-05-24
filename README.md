@@ -33,11 +33,11 @@
 
 ES6 相關資源
 
-* [ES6 Katas](http://es6katas.org/)
-* [ES6-Learning](https://github.com/ericdouglas/ES6-Learning)
-* [ES6-In-Depth](http://www.infoq.com/cn/es6-in-depth/)
-* [Strikingly ES6 JavaScript Style Guide](https://github.com/strikingly/javascript)
+* [ES6 Katas](http://es6katas.org/) Learn ES6 by doing it. Fix failing tests. Keep all learnings.
+* [ES6-Learning](https://github.com/ericdouglas/ES6-Learning) List of resources to learn ECMAScript 6!
+* [ES6-In-Depth](http://www.infoq.com/cn/es6-in-depth/) 本迷你书是InfoQ特别推出的深入浅出ES6专栏合集迷你书，欢迎各位ES6爱好者收集下载。
+* [Strikingly ES6 JavaScript Style Guide](https://github.com/strikingly/javascript)A mostly reasonable approach to JavaScript
 * [ECMAScript 6 簡介](https://hackmd.io/p/4JlFcJKOe#/) by [jackymaxj](https://twitter.com/jackymaxj)
 * [ES6-Cheatsheet](http://slides.com/drksephy/ecmascript-2015)
-* [ES6-Feature](http://es6-features.org/#Constants)
+* [ES6-Feature](http://es6-features.org/#Constants) New Features: Overview & Comparison 
 * [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
