@@ -1,6 +1,13 @@
-# ES6 讀書會 
+<style>
+	h6{
+		display:none;
+	}
+</style>
+# ES6 讀書會
 
 let 與 const
+
+###### tags: `let` `const`
 
 ----
 
@@ -147,10 +154,7 @@ if (true) {
 ```
 <!-- .element: class="fragment" data-fragment-index="3" -->
 
-----
-
-##
-
+---
 
 ``` text
 實際測試的時候，測試環境結果有所不同
@@ -610,3 +614,8 @@ let 與 const 是用來宣告區塊中的變數
 並且要注意宣告與使用的順序  
 
 <!-- .element: class="fragment" data-fragment-index="1" -->
+
+謝謝指教  
+期待下次的分享
+
+<!-- .element: class="fragment" data-fragment-index="2" -->
