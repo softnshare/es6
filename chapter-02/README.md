@@ -1,8 +1,4 @@
-<style>
-	h6{
-		display:none;
-	}
-</style>
+
 # ES6 讀書會
 
 let 與 const
