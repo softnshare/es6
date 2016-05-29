@@ -120,7 +120,10 @@ for (e of emoji) {
 
 ## at 方法
 
-在前面 [codePointAt()](#codepointat-方法) 提到了這個方法可以正確的處理 **4 Byte** 的字元，因為實際上它是被拆成兩組，所以我們在這邊比較一下 ES5 和 ES6 使用的方法差異：
+_at 方法目前還在 [Proposal stage 0](https://github.com/tc39/proposals/blob/master/stage-0-proposals.md) 階段_
+
+在前面 [codePointAt()](#codepointat-方法) 提到了這個方法可以正確的處理 **4 Byte** 的字元，因為實際上它是被拆成兩組。
+在這裡我們比較一下 `charAt` 和 `at` 方法差異：
 
 ```js
 const text = 'abc';
@@ -235,7 +238,7 @@ console.log(A.repeat(-1.2)); // RangeError
 
 ## 字串補全
 
-目前 `padStart()` 和 `padEnd()` 還在 ES **proposal** [stage-3](https://github.com/tc39/proposal-string-pad-start-end) 階段。  
+目前 `padStart()` 和 `padEnd()` 還在 **Proposal** [stage-3](https://github.com/tc39/proposal-string-pad-start-end) 階段。  
 
 這兩個方法可以自動幫我們補全字串的長度，可以在 **start** 或是 **end** 的地方做補全。
 
