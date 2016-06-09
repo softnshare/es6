@@ -5,7 +5,7 @@
 ## 導讀內容:
 * [第一章 ECMAScript 6 簡介 - polo](chapter-01)
 * [第二章 const 和 let - jawayang](chapter-02) / [投影片](https://hackmd.io/p/rJvZCMUM#/) / [線上導讀影片](https://youtu.be/mzQTOIaEqMs)
-* [第三章 解構賦值 Destructuring assignment](chapter-03)
+* [第三章 解構賦值 Destructuring assignment](chapter-03) / [投影片](https://hackmd.io/p/HJcb_nKf#/) 
 * [第四章 String - Peng Jie](chapter-04) / [投影片](https://hackmd.io/p/S10A0p5G#/) / [線上導讀影片](https://www.youtube.com/watch?v=7LOpj19J4nw)
 
 
