@@ -54,6 +54,7 @@
 * [ES6-Cheatsheet](http://slides.com/drksephy/ecmascript-2015)
 * [ES6-Feature](http://es6-features.org/#Constants) - New Features: Overview & Comparison.
 * [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
+* [Computer Science in JavaScript (ES5 and ES6)](https://github.com/benoitvallon/computer-science-in-javascript)
 
 ### ES6 VS ES5
 
