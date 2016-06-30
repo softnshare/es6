@@ -13,7 +13,7 @@
 
 ## 讀書會閱讀工具:
 
-* [hackmd.io](https://hackmd.io/) [線上教學-Jacky](https://www.youtube.com/watch?v=8maKJ6CJ9no)
+* [hackmd.io](https://hackmd.io/) [教學影片-Jacky](https://www.youtube.com/watch?v=8maKJ6CJ9no)
 * [新同文堂](https://chrome.google.com/webstore/detail/new-tong-wen-tang/ldmgbgaoglmaiblpnphffibpbfchjaeg?hl=zh-TW) 簡體繁體轉換工具
 * [hangout 直播](https://plus.google.com/hangouts/onair) 導讀錄影
 * markdown 編輯工具
