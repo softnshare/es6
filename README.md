@@ -10,6 +10,7 @@
 * [第五章 RegExp - cashbook](chapter-05) / [投影片](https://hackmd.io/p/rkHAATpM#/) / [線上導讀影片](https://www.youtube.com/watch?v=eDvxODarM3U)
 * [第六章 數值的拓展 - RayWay](chapter-06) / [投影片](https://hackmd.io/p/SkIRuHSB#/) / [線上導讀影片](https://www.youtube.com/watch?v=vJxlYXu1Dvc)
 * [第七章 陣列的拓展 - AllenHsieh](chapter-07) / [投影片](https://hackmd.io/p/S1Jll4LH#/) / [線上導讀影片](https://youtu.be/1eugOttKFfA)
+* [第十五章 Generator 函數 - shiningjason](chapter-15) / [投影片](https://hackmd.io/p/r1_8z2Z_#/) / [線上導讀影片](https://www.youtube.com/watch?v=5_mUqevT3cM)
 
 ## 讀書會閱讀工具:
 
