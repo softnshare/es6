@@ -1,4 +1,4 @@
-# Generator function
+# Chapter 15. Generator function
 
 以下章節 **由淺入深** 帶大家探索 Generator function！  
 :seedling: :herb: :deciduous_tree:
