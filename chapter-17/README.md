@@ -1,18 +1,14 @@
 # Chapter 17. 異步操作和 Async 函数
 
-### 參考資源
-
-1. [Jafar Husain: Async Programming in ES7 | JSConf US 2015](https://www.youtube.com/watch?v=lil4YCCXRYc)
-2. [异步操作和 Async 函数](http://es6.ruanyifeng.com/#docs/async)
-3. [Callback Hell - A guide to writing asynchronous JavaScript programs](http://callbackhell.com/)
-
 ### 大綱
 
-- [一. Blocking and waiting](#一-blocking-and-waiting)
+- [一. Blocking and waiting](#ㄧ-blocking-and-waiting)
 - [二. Callback function](#二-callback-function)
 - [三. ES2015 Promise](#三-es2015-promise)
 - [四. ES2015 Generator function](#四-es2015-generator-function)
 - [五. ES2016 Async function](#五-es2015-async-function)
+- [六. 參考資源](#六-參考資源)
+- [七. Curators](#七-curators)
 
 ## ㄧ. Blocking and waiting
 
@@ -163,7 +159,13 @@ async function getReplies() {
 
 這部影片值得去看一看，可以了解整個 Async programming 的來龍去脈（[連結](https://www.youtube.com/watch?v=lil4YCCXRYc)）！
 
-## Curator
+## 七. 參考資源
+
+1. [Jafar Husain: Async Programming in ES7 | JSConf US 2015](https://www.youtube.com/watch?v=lil4YCCXRYc)
+2. [异步操作和 Async 函数](http://es6.ruanyifeng.com/#docs/async)
+3. [Callback Hell - A guide to writing asynchronous JavaScript programs](http://callbackhell.com/)
+
+## 八. Curators
 
 - [shiningjason](http://shiningjason1989.github.io/): Hope this article will inspire you 🍾🍾🍾
 
