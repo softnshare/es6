@@ -23,7 +23,7 @@ function login() {
 }
 ```
 
-在 Jafar Husain 那部影片中，他提到的 Pulling 概念可以用下面這一句來想像：  
+在 Jafar Husain 的影片（[連結](https://www.youtube.com/watch?v=lil4YCCXRYc)）中，他提到的 Pulling 概念可以用下面這一句來想像：  
 `fbUser <- fbLogin()`  
 
 換成白話文的意思就是 - 我們調用 fbLogin 這個函數，並將 fbUser 的值從中拉 (pull) 出來。
