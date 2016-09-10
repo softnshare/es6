@@ -6,9 +6,10 @@
 - [二. Callback function](#二-callback-function)
 - [三. ES2015 Promise](#三-es2015-promise)
 - [四. ES2015 Generator function](#四-es2015-generator-function)
-- [五. ES2016 Async function](#五-es2015-async-function)
-- [六. 參考資源](#六-參考資源)
-- [七. Curators](#七-curators)
+- [五. ES2016 Async function](#五-es2016-async-function)
+- [六. More Async programming](#六-more-async-programming)
+- [七. 參考資源](#七-參考資源)
+- [八. Curators](#八-curators)
 
 ## ㄧ. Blocking and waiting
 
